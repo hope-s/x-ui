@@ -3,15 +3,10 @@
 
 xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 
-# Install & Upgrade
-
-```
-bash <(curl -Ls https://raw.githubusercontent.com/hope-s/x-ui/main/install.sh)
-```
 ## Install custom version
-To install your desired version you can add the version to the end of install command. Example for ver `v1.0.9`:
+To install your desired version you can add the version to the end of install command. Example for ver `1.0.9`:
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hope-s/x-ui/main/install.sh) v1.0.9
+bash <(curl -Ls https://raw.githubusercontent.com/hope-s/x-ui/main/install.sh) 1.0.9
 ```
 # SSL
 ```
@@ -87,10 +82,6 @@ Reference syntax:
 - Check server status
 - Check Exhausted users
 - Receive backup by request and in periodic reports
-
-# A Special Thanks To
-- [alireza0](https://github.com/alireza0/)
-- [HexaSoftwareTech](https://github.com/HexaSoftwareTech/)
 
 # Suggestion System
 - Ubuntu 20.04+
