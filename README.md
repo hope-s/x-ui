@@ -1,6 +1,3 @@
-
-> **Disclaimer: This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment**
-
 xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 
 ## Install custom version
